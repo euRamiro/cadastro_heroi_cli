@@ -2,13 +2,14 @@
     Cadastro de herois
 </h1>
 
-<h4 align="center"> 
-	🚧 construção... 🚧
-</h4>
 
 <p align="center">
-  
-  </a>
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/euRamiro/cadastro_heroi_cli"/>
+
+<img alt="Repository size" src="https://img.shields.io/github/repo-size/euRamiro/cadastro_heroi_cli"/>
+<img alt="ultimo commit" src="https://img.shields.io/github/last-commit/euRamiro/cadastro_heroi_cli"/>  
+<img alt="licensa" src="https://img.shields.io/github/license/euRamiro/cadastro_heroi_cli"/>
+ </P>
 
 
 ## 💻 Sobre o projeto
